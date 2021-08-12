@@ -1,4 +1,4 @@
-### Hello there, it's Brandon! :v: Nice to meet you :partying_face: My :dog: Titus barks "Hello" too!
+### Hello there, it's Brandon! :v: Nice to meet you :partying_face: My :dog: Titus is excited to meet you too, he says: "woof!"
 
 ## :blond_haired_man: About Me
 
@@ -24,23 +24,17 @@
 
 ## :open_book: Currently Learning
 
-* JavaScript
-
-* Git
-
-* Web Development Fundamentals
+* HTML/CSS
 
 ## :books: Future Learning Roadmap
 
 1. JavaScript (Async/Classes/Modules)
 
-2. CSS/HTML
+2. React
 
-3. React
+3. Redux
 
-4. Redux
-
-5. PostgreSQL/PostGIS
+4. PostgreSQL/PostGIS
 
    and more...
 
