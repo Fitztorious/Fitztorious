@@ -14,17 +14,15 @@
 
 * SQL (intermediate)
 
+* HTML/CSS (intermediate)
+
 * Go (beginner)
 
-* HTML/CSS (beginner)
-
-* Git
-
-* Bash
+* Git/Bash
 
 ## :open_book: Currently Learning
 
-* HTML/CSS
+* CSS
 
 ## :books: Future Learning Roadmap
 
