@@ -4,7 +4,7 @@
 
 ### I've always loved coding and have a minor in computer science from the University of Waterloo :school: My major was in geomatics and has been the focus of my attention over the past decade in my current role.
 
-### My current goal is to expand my skill set to create :world_map: interactive web [GIS](https://www.esri.com/en-us/what-is-gis/overview "What is GIS? | Geographic Information System Mapping Technology") apps that are easy to use, visually appealing, and most of all, fun!
+### My goal is to expand my skill set enough to create :world_map: impactful web [GIS](https://www.esri.com/en-us/what-is-gis/overview "What is GIS? | Geographic Information System Mapping Technology") apps that are easy to use and visually appealing!
 
 ## :mechanical_arm: Skills
 
@@ -22,7 +22,7 @@
 
 ## :open_book: Currently Learning
 
-* CSS
+* CSS - The Box Model
 
 ## :books: Future Learning Roadmap
 
